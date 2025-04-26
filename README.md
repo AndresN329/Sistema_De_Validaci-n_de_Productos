@@ -1,8 +1,8 @@
 # Sistema_De_Validacion_de_Productos
 
-# 🧮 Descuenteitor
+# Descuenteitor
 
-**Descuenteitor** es un pequeño programa en Python que calcula el total a pagar por productos, con opción de aplicar un descuento si corresponde.
+**Descuenteitor** es un programa (pequeño) en Python que calcula el total a pagar por productos, con opción de aplicar un descuento si corresponde.
 
 ---
 
