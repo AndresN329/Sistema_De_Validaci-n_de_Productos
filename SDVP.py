@@ -67,7 +67,7 @@ print("\nEstos son los resultados")
 print("\nEl nombre del producto es: ",nombreP)
 print("El precio Unitario del producto es: ",PrecioU)
 print("Cantidad de productos: ",CantidadP)
-print("Valor sin decuento: ",PrecioTotalsinDes)
+print("Valor sin descuento: ",PrecioTotalsinDes)
 
 #aqui me ayudo a hacer lo que queria el mejor amigo de todos... y no hablo de un perro :)
 if porcentaje != "No aplica":
